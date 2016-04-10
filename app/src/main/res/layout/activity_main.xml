@@ -29,6 +29,7 @@
         android:layout_height="wrap_content"
         android:text="LED1"
         android:id="@+id/LED1"
+
         />
 
     <CheckBox
@@ -36,6 +37,7 @@
         android:layout_height="wrap_content"
         android:text="LED2"
         android:id="@+id/LED2"
+
         />
 
     <CheckBox
@@ -43,6 +45,7 @@
         android:layout_height="wrap_content"
         android:text="LED3"
         android:id="@+id/LED3"
+
         />
 
     <CheckBox
@@ -50,6 +53,7 @@
         android:layout_height="wrap_content"
         android:text="LED4"
         android:id="@+id/LED4"
+
         />
 
 </LinearLayout>
